@@ -1,0 +1,8 @@
+[package]
+name = "Tetris"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+macroquad = "0.4.8"
+rand = "0.9.0-alpha.1"
